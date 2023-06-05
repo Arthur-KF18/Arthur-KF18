@@ -45,7 +45,7 @@
 
    <img align="center" alt="Arthur-Js" height="30" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 
-   <img align="center" alt="Arthur-Js" height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+   <img align="center" alt="Arthur-Js" height="30" src="https://img.shields.io/badge/Figma-e894ff?style=for-the-badge&logo=figma&logoColor=white">
    </div>
   
   <h2>IDEs utilizadas</h2>
