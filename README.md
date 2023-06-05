@@ -44,3 +44,14 @@
    <img align="center" alt="Arthur-Js" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    <img align="center" alt="Arthur-Js" height="30" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </div>
+
+<h2>Principais Tecnologias Usadas</h2>
+<p><a href="https://github.com/Arthur-KF18/Projeto-Portfolio-Create-Cloud-Computing"></a>Repositório CCC</p>
+<div style="display: flex; flex-direction: row; padding: 1rem;">
+   <img align="center" alt="Arthur-Js" height="30" src="https://img.shields.io/github/languages/top/Arthur-KF18/Projeto-Portfolio-Create-Cloud-Computing?color=orange&label=HTML&style=for-the-badge">  
+</div>
+<br>
+<p><a href="https://github.com/Arthur-KF18/Sass-CSS"></a>Repositório Sass-CSS</p>
+<div style="display: flex; flex-direction: row; padding: 1rem;">
+  <img align="center" alt="Arthur-Js" height="30" src="https://img.shields.io/github/languages/top/Arthur-KF18/Sass-CSS?color=pink&label=SASS&style=for-the-badge">
+</div>
