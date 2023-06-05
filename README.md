@@ -1,6 +1,6 @@
 ### Bem-vindo ao meu Repositótrio do Github 👋
 
-- 🔭 Estudante de Ciências da Computação pela Universidade Anhembi Morumbi, aprendo cada vez mais sobre o Fron-end e o Web design
+- 🔭 Estudante de Ciências da Computação pela Universidade Anhembi Morumbi, aprendo cada vez mais sobre o Front-end e o Web design
 - 🌱 Estudando HTML, CSS, Javscript, React, Node, Tailwind...
 - 📘Meu LinkedIn: <https://www.linkedin.com/in/arthurkfelismino/>
 - 😄 Pronomes: Ele/Dele
