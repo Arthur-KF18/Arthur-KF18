@@ -1,7 +1,7 @@
 ### Bem-vindo ao meu Repositótrio do Github 👋
 
 - 🔭 Estudante de Ciências da Computação pela Universidade Anhembi Morumbi, aprendo cada vez mais sobre o Front-end e o Web design
-- 🌱 Estudando HTML, CSS, Javscript, React, Node, Tailwind...
+- 🌱 Estudando HTML, CSS, Javascript, React, Node, Tailwind...
 - 📘Meu LinkedIn: <https://www.linkedin.com/in/arthurkfelismino/>
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Front-end é desenhar com códigos!
