@@ -1,9 +1,8 @@
-### Bem-vindo ao meu Repositótrio do Github 👋
+## Olá, e seja bem vindo ao meu repositório😉
 
-- 🔭 Estudante de Ciências da Computação pela Universidade Anhembi Morumbi, aprendo cada vez mais sobre o Front-end e o Web design
-- 🌱 Estudando HTML, CSS, Javascript, React, Node, Tailwind...
-- 📘Meu LinkedIn: <https://www.linkedin.com/in/arthurkfelismino/>
-- 😄 Pronomes: Ele/Dele
+- 🔭 Sou estudante de Ciências da Computação, aprendendo mais do __Front-end e do UX & UI__
+- 🌱 Estudando HTML, CSS, Javascript, Node, SASS, Vue.js...
+- 😄 Desenvolvendo mais todos os dias!
 - ⚡ Fun fact: Front-end é desenhar com códigos!
 
 [![Arthur-KF18 GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-KF18&show_icons=true&theme=dracula)](https://github.com/Arthur-KF18/github-readme-stats)
@@ -30,3 +29,6 @@
 
 #### Repositório Sass-CSS
 [![Projeto](https://img.shields.io/github/languages/top/Arthur-KF18/Sass-CSS?color=pink&label=SASS&style=for-the-badge)](https://github.com/Arthur-KF18/Sass-CSS)
+
+---
+<div style="display:flex; justify-content: center;"><b>Escrito com carinho 💙</b></div>
