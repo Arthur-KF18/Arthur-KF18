@@ -6,13 +6,16 @@
 - 😄 Desenvolvendo e aprendendo todos os dias!
 - ⚡ Fun fact: Front-end é deixar páginas dinâmicas!
 
-[![Arthur-KF18 GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-KF18&show_icons=true&theme=transparent)](https://github.com/Arthur-KF18/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-KF18&layout=compact&theme=transparent)](https://github.com/Arthur-KF18/github-readme-stats)
+<a href="https://github.com/Arthur-KF18/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Arthur-KF18&theme=holi" />
+</a>
+<a href="https://github.com/Arthur-KF18/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur-KF18&layout=compact&langs_count=8&card_width=320&theme=holi" />
+</a>
 
 ## 🏆Meus troféus
 
-![](https://github-profile-trophy.vercel.app/?username=Arthur-KF18&theme=tranparent&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Arthur-KF18&theme=nord&no-bg=false&margin-w=4)
 
 ## 🚀Minhas Tecnologias
 ---
