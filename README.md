@@ -1,17 +1,18 @@
-## Olá, e seja bem vindo ao meu repositório😉
+![MyImage](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+## Olá, e seja bem vindo ao meu GitHub💙
 
-- 🔭 Sou estudante de Ciências da Computação, aprendendo mais do __Front-end e do UX & UI__
-- 🌱 Estudando HTML, CSS, Javascript, Node, SASS, Vue.js...
-- 😄 Desenvolvendo mais todos os dias!
-- ⚡ Fun fact: Front-end é desenhar com códigos!
+- 🔭 Sou estudante de Ciências da Computação, caminhando com __Front-end e UX & UI__
+- 🌱Aperfeiçoando JavaScript, me preparando para React
+- 😄 Desenvolvendo e aprendendo todos os dias!
+- ⚡ Fun fact: Front-end é deixar páginas dinâmicas!
 
-[![Arthur-KF18 GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-KF18&show_icons=true&theme=dracula)](https://github.com/Arthur-KF18/github-readme-stats)
+[![Arthur-KF18 GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-KF18&show_icons=true&theme=transparent)](https://github.com/Arthur-KF18/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-KF18&layout=compact&theme=dracula)](https://github.com/Arthur-KF18/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-KF18&layout=compact&theme=transparent)](https://github.com/Arthur-KF18/github-readme-stats)
 
 ## 🏆Meus troféus
 
-![](https://github-profile-trophy.vercel.app/?username=Arthur-KF18&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Arthur-KF18&theme=tranparent&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🚀Minhas Tecnologias
 ---
@@ -28,11 +29,11 @@
 
 ## Principais Tecnologias usadas nos projetos:
 ---
-#### Repositório CCC
-[![Projeto](https://img.shields.io/github/languages/top/Arthur-KF18/Projeto-Portfolio-Create-Cloud-Computing?color=orange&label=HTML&style=for-the-badge)](https://github.com/Arthur-KF18/Projeto-Portfolio-Create-Cloud-Computing)
+#### Repositório : JavaScript DIO
+[![Projeto](https://img.shields.io/github/languages/top/Arthur-KF18/JavaScript-DIO?color=yellow&label=JavaScript&style=for-the-badge)](https://github.com/Arthur-KF18/Projeto-Portfolio-Create-Cloud-Computing)
 
-#### Repositório Sass-CSS
-[![Projeto](https://img.shields.io/github/languages/top/Arthur-KF18/Sass-CSS?color=pink&label=SASS&style=for-the-badge)](https://github.com/Arthur-KF18/Sass-CSS)
+#### Mergulhando em JavaScript
+[![Projeto](https://img.shields.io/github/languages/top/Arthur-KF18/Mergulhando-em-JavaScript?color=blue&label=TypeScript&style=for-the-badge)](https://github.com/Arthur-KF18/Sass-CSS)
 
 ---
 <div style="display:flex; justify-content: center;"><b>Escrito com carinho 💙</b></div>
