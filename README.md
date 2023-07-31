@@ -7,10 +7,10 @@
 - ⚡ Fun fact: Front-end é deixar páginas dinâmicas!
 
 <a href="https://github.com/Arthur-KF18/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Arthur-KF18&theme=holi" />
+  <img height=200 align="center" src="https://github-readme-stats-arthur-kf18.vercel.app/api?username=Arthur-KF18&theme=holi" />
 </a>
 <a href="https://github.com/Arthur-KF18/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur-KF18&layout=compact&langs_count=8&card_width=320&theme=holi" />
+  <img height=200 align="center" src="https://github-readme-stats-arthur-kf18.vercel.app/api/top-langs?username=Arthur-KF18&layout=compact&langs_count=8&card_width=320&theme=holi" />
 </a>
 
 ## 🏆Meus troféus
