@@ -1,41 +1,5 @@
-<style>
-    .typingEffect {
-        border-right: .10em solid;
-        color: #2b2b2b;
-        font-family: monospace;
-        overflow: hidden;
-        white-space: nowrap;
-        letter-spacing: -2%;
-         animation: type 3.5s steps(30, start),
-            blinking .5s step-end infinite;
-    }
-
-    @keyframes type {
-        from {
-            width: 0;
-        }
-
-        to {
-            width: 100%;
-        }
-    }
-
-    @keyframes blinking {
-
-        from,
-        to {
-            border-color: transparent
-        }
-
-        50% {
-            border-color: rgb(0, 132, 255)
-        }
-    }
-</style>
-
-<div>
-    <h1 class="typingEffect">Hi, i'am Arthur, a Front-end Dev</h1>
-</div>
+# Hi, i'am Arthur, a Front-end Dev
+---
 
 ![MyImage](./undraw_freelancer_re_irh4.svg)
 
@@ -56,26 +20,31 @@
 ![](https://github-profile-trophy.vercel.app/?username=Arthur-KF18&theme=nord&no-bg=false&margin-w=4)
 
 ## 🚀Minhas Tecnologias
+
 ---
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-e894ff?style=for-the-badge&logo=figma&logoColor=white)
 
-
 ## 💻IDEs Utilizadas
+
 ---
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 🧭Minhas redes sociais
+
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurkfelismino/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arthur-KF18)
 
-## Principais Tecnologias usadas nos projetos:
+## Principais Tecnologias usadas nos projetos
+
 ---
+
 #### Repositório : JavaScript DIO
+
 [![Projeto](https://img.shields.io/github/languages/top/Arthur-KF18/JavaScript-DIO?color=yellow&label=JavaScript&style=for-the-badge)](https://github.com/Arthur-KF18/Projeto-Portfolio-Create-Cloud-Computing)
 
 #### Mergulhando em JavaScript
+
 [![Projeto](https://img.shields.io/github/languages/top/Arthur-KF18/Mergulhando-em-JavaScript?color=blue&label=TypeScript&style=for-the-badge)](https://github.com/Arthur-KF18/Sass-CSS)
 
 ---
 <div style="display:flex; justify-content: center;"><b>Escrito com carinho 💙</b></div>
-
