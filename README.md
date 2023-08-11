@@ -1,4 +1,4 @@
-![MyImage](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![MyImage](./undraw_freelancer_re_irh4.svg)
 ## Olá, e seja bem vindo ao meu GitHub💙
 
 - 🔭 Sou estudante de Ciências da Computação, caminhando com __Front-end e UX & UI__
