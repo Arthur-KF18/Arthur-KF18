@@ -1,5 +1,43 @@
+<style>
+    .typingEffect {
+        border-right: .10em solid;
+        color: #2b2b2b;
+        font-family: monospace;
+        overflow: hidden;
+        white-space: nowrap;
+        letter-spacing: -2%;
+         animation: type 3.5s steps(30, start),
+            blinking .5s step-end infinite;
+    }
+
+    @keyframes type {
+        from {
+            width: 0;
+        }
+
+        to {
+            width: 100%;
+        }
+    }
+
+    @keyframes blinking {
+
+        from,
+        to {
+            border-color: transparent
+        }
+
+        50% {
+            border-color: rgb(0, 132, 255)
+        }
+    }
+</style>
+
+<div>
+    <h1 class="typingEffect">Hi, i'am Arthur, a Front-end Dev</h1>
+</div>
+
 ![MyImage](./undraw_freelancer_re_irh4.svg)
-## Olá, e seja bem vindo ao meu GitHub💙
 
 - 🔭 Sou estudante de Ciências da Computação, caminhando com __Front-end e UX & UI__
 - 🌱Aperfeiçoando JavaScript, me preparando para React
