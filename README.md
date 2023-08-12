@@ -47,4 +47,4 @@
 [![Projeto](https://img.shields.io/github/languages/top/Arthur-KF18/Mergulhando-em-JavaScript?color=blue&label=TypeScript&style=for-the-badge)](https://github.com/Arthur-KF18/Sass-CSS)
 
 ---
-<div style="display:flex; justify-content: center;"><b>Escrito com carinho 💙</b></div>
+<b align="center">Escrito com carinho 💙</b>
